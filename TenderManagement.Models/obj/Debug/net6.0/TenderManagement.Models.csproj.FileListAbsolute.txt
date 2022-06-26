@@ -1,0 +1,12 @@
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Models\bin\Debug\net6.0\TenderManagement.Models.deps.json
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Models\bin\Debug\net6.0\TenderManagement.Models.dll
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Models\bin\Debug\net6.0\TenderManagement.Models.pdb
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Models\obj\Debug\net6.0\TenderManagement.Models.csproj.AssemblyReference.cache
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Models\obj\Debug\net6.0\TenderManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Models\obj\Debug\net6.0\TenderManagement.Models.AssemblyInfoInputs.cache
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Models\obj\Debug\net6.0\TenderManagement.Models.AssemblyInfo.cs
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Models\obj\Debug\net6.0\TenderManagement.Models.csproj.CoreCompileInputs.cache
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Models\obj\Debug\net6.0\TenderManagement.Models.dll
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Models\obj\Debug\net6.0\refint\TenderManagement.Models.dll
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Models\obj\Debug\net6.0\TenderManagement.Models.pdb
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Models\obj\Debug\net6.0\ref\TenderManagement.Models.dll

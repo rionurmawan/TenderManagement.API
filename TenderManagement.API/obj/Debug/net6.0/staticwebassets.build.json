@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2wuGg95ysa3wsDMBSi05MEeZLs6rOBH5v/V3Z6XSwqo=",
+  "Source": "TenderManagement.API",
+  "BasePath": "_content/TenderManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

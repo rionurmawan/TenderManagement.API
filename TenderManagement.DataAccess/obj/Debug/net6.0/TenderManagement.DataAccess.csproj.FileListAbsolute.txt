@@ -1,0 +1,14 @@
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\bin\Debug\net6.0\TenderManagement.DataAccess.deps.json
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\bin\Debug\net6.0\TenderManagement.DataAccess.runtimeconfig.json
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\bin\Debug\net6.0\TenderManagement.DataAccess.dll
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\bin\Debug\net6.0\TenderManagement.DataAccess.pdb
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\obj\Debug\net6.0\TenderManagement.DataAccess.csproj.AssemblyReference.cache
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\obj\Debug\net6.0\TenderManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\obj\Debug\net6.0\TenderManagement.DataAccess.AssemblyInfoInputs.cache
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\obj\Debug\net6.0\TenderManagement.DataAccess.AssemblyInfo.cs
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\obj\Debug\net6.0\TenderManagement.DataAccess.csproj.CoreCompileInputs.cache
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\obj\Debug\net6.0\TenderManagement.DataAccess.dll
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\obj\Debug\net6.0\refint\TenderManagement.DataAccess.dll
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\obj\Debug\net6.0\TenderManagement.DataAccess.pdb
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\obj\Debug\net6.0\TenderManagement.DataAccess.genruntimeconfig.cache
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.DataAccess\obj\Debug\net6.0\ref\TenderManagement.DataAccess.dll

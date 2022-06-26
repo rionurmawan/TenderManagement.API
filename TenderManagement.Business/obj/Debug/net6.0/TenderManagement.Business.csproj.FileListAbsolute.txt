@@ -1,0 +1,17 @@
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\bin\Debug\net6.0\TenderManagement.Business.deps.json
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\bin\Debug\net6.0\TenderManagement.Business.dll
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\bin\Debug\net6.0\TenderManagement.Business.pdb
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\bin\Debug\net6.0\TenderManagement.DataAccess.dll
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\bin\Debug\net6.0\TenderManagement.Models.dll
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\bin\Debug\net6.0\TenderManagement.DataAccess.pdb
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\bin\Debug\net6.0\TenderManagement.Models.pdb
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\obj\Debug\net6.0\TenderManagement.Business.csproj.AssemblyReference.cache
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\obj\Debug\net6.0\TenderManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\obj\Debug\net6.0\TenderManagement.Business.AssemblyInfoInputs.cache
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\obj\Debug\net6.0\TenderManagement.Business.AssemblyInfo.cs
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\obj\Debug\net6.0\TenderManagement.Business.csproj.CoreCompileInputs.cache
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\obj\Debug\net6.0\TenderManagement.Business.csproj.CopyComplete
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\obj\Debug\net6.0\TenderManagement.Business.dll
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\obj\Debug\net6.0\refint\TenderManagement.Business.dll
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\obj\Debug\net6.0\TenderManagement.Business.pdb
+D:\TenderManagement\TenderManagement.API\TenderManagement.API\TenderManagement.Business\obj\Debug\net6.0\ref\TenderManagement.Business.dll
